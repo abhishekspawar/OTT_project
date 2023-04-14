@@ -97,4 +97,10 @@ img {
     .cardsHeading{
         font-size: 1.2rem;
     }
+    .card-details h2 {
+        margin-bottom: 8px;
+    }
+    .card-details p {
+        font-size: .7rem;
+    }
 }
